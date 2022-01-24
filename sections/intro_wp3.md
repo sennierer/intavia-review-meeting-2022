@@ -26,6 +26,8 @@
 
 +++
 
+#### Gantt chart<!-- .element: style="position: absolute; left: 5%; top: 30%" -->
+
 <span class="fragment"></span>
 <span class="fragment"></span>
 <span class="fragment"></span>
