@@ -1,4 +1,4 @@
-#### We are here:<!-- .element: style="float: left;color: #EAEAEA; font-weight: bold;" -->
+#### We are here<!-- .element: style="float: left; position: absolute; left: 5%; top: 10%; color: grey" -->
 
 <span class="fragment"></span>
 
@@ -12,7 +12,7 @@
 
 +++
 
-#### We are here:<!-- .element: style="float: left" -->
+#### We are here<!-- .element: style="float: left; position: absolute; left: 5%; top: 10%; color: grey" -->
 
 <span class="fragment"></span>
 
@@ -26,7 +26,7 @@
 
 +++
 
-#### Gantt chart<!-- .element: style="position: absolute; left: 5%; top: 30%" -->
+#### Gantt chart<!-- .element: style="position: absolute; left: 5%; top: 30%; color: grey" -->
 
 <span class="fragment"></span>
 <span class="fragment"></span>
