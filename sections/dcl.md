@@ -21,7 +21,7 @@
 
 #### Data Curation Lab<!-- .element: style="float: left" -->
 
-* Not part of the original proposal<!-- .element: class="fragment" -->
+* only implicit in the original proposal<!-- .element: class="fragment" -->
 * Developed after the user requirements workshops<!-- .element: class="fragment" -->
 * Combilation of datasets from the KG<!-- .element: class="fragment" -->
 * DCL only working on "local" browser data<!-- .element: class="fragment" -->
