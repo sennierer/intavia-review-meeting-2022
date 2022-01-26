@@ -11,6 +11,12 @@
 
 +++
 
+#### IDM-RDF named graphs<!-- .element: style="float: left; margin-top: 3%" -->
+
+<img class="r-stretch" style="margin-bottom:60px" src="images/InTaViaNamed_GraphSchema.svg">
+
++++
+
 #### IDM-JSON<!-- .element: style="float: left" -->
 
 * JSON schema provided via grlc API<!-- .element: class="fragment" -->
