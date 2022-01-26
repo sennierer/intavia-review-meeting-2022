@@ -2,7 +2,8 @@
 
 * Based on CIDOC CRM v7.1.1<!-- .element: class="fragment" -->
 * BioCRM extension (developed by Aalto)<!-- .element: class="fragment" -->
-* Europeana Data Model (EDM) for object data<!-- .element: class="fragment" -->
+* EDM inspired CRM native modeling of cultural heritage data<!-- .element: class="fragment" -->
+* Preliminary mapping of IDM-RDF to EDM in D3.4 appendix 3<!-- .element: class="fragment" -->
 * PROV-O for provenance data<!-- .element: class="fragment" -->
 * BIBFRAME for references and citations<!-- .element: class="fragment" -->
 * adapted interpretation of Europeana's proxy model,<br/>which adapts the OAI/ORE model<!-- .element: class="fragment" -->
